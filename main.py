@@ -1,6 +1,7 @@
 # BMI Calculator (U.S. Units to Metric)
 
 # Ask for user input
+# because I am horrible at calculating BMI in my head
 weight_lb = float(input("Enter your weight in pounds (lbs): "))
 feet = int(input("Enter your height - feet: "))
 inches = int(input("Enter your height - inches: "))
